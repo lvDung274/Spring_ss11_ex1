@@ -1,0 +1,8 @@
+2026-11-09 10:13:04 [restartedMain] INFO  c.example.patient.PatientApplication - Starting PatientApplication using Java 21.0.12.1 with PID 31528 (E:\Riki_Soft\BTVN Rikki\Spring\Sesion11\patient\build\classes\java\main started by Admin in E:\Riki_Soft\BTVN Rikki\Spring\Sesion11\patient)
+2026-11-09 10:13:04 [restartedMain] INFO  c.example.patient.PatientApplication - The following 1 profile is active: "prod"
+2026-11-09 10:13:06 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-11-09 10:13:06 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4907a695
+2026-11-09 10:13:06 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-11-09 10:13:08 [restartedMain] INFO  c.example.patient.PatientApplication - Started PatientApplication in 4.062 seconds (process running for 4.641)
+2026-11-09 10:14:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-11-09 10:14:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
